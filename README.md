@@ -1,0 +1,1 @@
+The Classroom App is a full-stack web application designed to manage classrooms, teachers, students, and timetables. The project is divided into two main parts: backend and frontend. The backend handles the server-side logic, including API endpoints and database management, while the frontend provides a user interface for the application's users.
